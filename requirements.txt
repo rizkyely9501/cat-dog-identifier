@@ -1,4 +1,4 @@
-pandas==1.0.3
+pandas==0.19
 Flask==1.1.1
 numpy==1.18.1
 sckit_learn==0.23.1
@@ -7,3 +7,5 @@ Werkzeug==0.16.0
 Jinja2==2.10.1
 itsdangerous==1.1.0
 MarkupSafe==1.1.1
+scipy==0.15.1
+matplotlib==1.4.3
